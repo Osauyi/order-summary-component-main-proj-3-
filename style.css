@@ -1,5 +1,5 @@
 body{
-  background-image: url(/images/pattern-background-desktop.svg);
+  background-image: url(images/pattern-background-desktop.svg);
   font-family: 'Red Hat Display', sans-serif;
   background-color:  hsl(225, 100%, 94%);
   flex-direction: column;
